@@ -1,0 +1,18 @@
+/* `/assets/mobile/css/module/ui/cmui.styl` 的内容 */
+
+/* `/assets/mobile/css/module/home/banner.styl` 的内容 */
+/* `/assets/mobile/css/module/home/cat-list.styl` 的内容 */
+/* `/assets/mobile/css/module/browser-fav.styl` 的内容 */
+
+article .banner {
+	display: block;
+}
+
+article .cat-list ul li {
+	width: 100px;
+	height: 50px;
+}
+
+article .browser-fav {
+	display: none;
+}

@@ -1,0 +1,19 @@
+:import skeleton
+
+	#stylesheets::after
+		link @rel='stylesheet' @href='http://s.baixing.net/mobile/css/home.css'
+
+	#main
+		article
+			div.banner
+				img @src='#'
+
+			div.cat-list
+				ul
+					li > a @href="#" "类目"
+					li > a @href="#" "类目"
+					li > a @href="#" "类目"
+					li > a @href="#" "类目"
+
+	#defer-scripts::after
+		script @src='http://s.baixing.net/mobile/js/home.js'
