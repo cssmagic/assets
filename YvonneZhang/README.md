@@ -9,7 +9,7 @@
 				- images/  --图片
 				- scripts/  --脚本
 				- views/   --视图(jade/jedi/html)
-            - module/  --多个业务模块公用的子功能
+			- module/  --多个业务模块公用的子功能
 			- viewad/  --业务划分
 				- README.md  --写清楚该业务的范围
 				- common/  --业务通用资源
